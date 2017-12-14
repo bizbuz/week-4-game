@@ -1,0 +1,46 @@
+
+
+
+.backgroundTheme{
+
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 100%;
+}
+
+
+.glyphicon {
+
+	height: 200px; 
+	width: 175px;
+	font-size: 175px; 
+	font-weight: bold;  
+	background-color: #5d8ea5;
+	border: none;
+}
+
+
+#randomNumber{
+
+	margin: auto;
+	background-blend-mode: overlay;
+	background-color: #55579b;
+	border: none;
+	height: 100px;
+	color: white;   
+	
+}
+
+#score{
+
+	margin: auto;
+	background-blend-mode: overlay;
+	background-color: #55579b;
+	border: none;
+	
+	height: 100px;
+	text-align: right;
+	color: white;   
+
+}
